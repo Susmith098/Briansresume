@@ -171,7 +171,7 @@
 
 
    /* About Section */
-   #about .profile-pic { display: none; }
+   #about .profile-pic { display: center; }
    #about .download .button {
       width: 100%;
       text-align: center;
